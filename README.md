@@ -91,7 +91,7 @@ gtkwave -v        # Should show GTKWave version
   ![Icarus Verilog Version](https://github.com/user-attachments/assets/e1eaa602-0c55-4803-8e8a-12a405d2bec7)
 
 * **GTKWave**
-  ![GTKWave Version](images/gtkwave.jpg)
+  ![GTKWave Version](https://github.com/user-attachments/assets/917511a1-46fa-4869-a963-cf97de30a5b4)
 
 ---
 
