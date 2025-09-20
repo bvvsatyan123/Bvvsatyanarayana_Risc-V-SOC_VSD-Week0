@@ -1,6 +1,6 @@
 # Bvvsatyanarayana_Risc-V-SOC_VSD-Week0
 
-# 🚀 RISC-V Reference SoC Tapeout Program – Toolchain Setup
+## 🚀 RISC-V Reference SoC Tapeout Program – Toolchain Setup
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-20.04+-orange?logo=ubuntu)
 ![Tools](https://img.shields.io/badge/Tools-Yosys%2C%20GTKWave%2C%20Icarus%20Verilog-blue)
@@ -88,7 +88,7 @@ gtkwave -v        # Should show GTKWave version
   ![Yosys Launch](https://github.com/user-attachments/assets/21623994-73ba-494f-b297-ef2b03f40ad5)
 
 * **Icarus Verilog**
-  ![Icarus Verilog Version](images/iverilog.jpg)
+  ![Icarus Verilog Version](https://github.com/user-attachments/assets/e1eaa602-0c55-4803-8e8a-12a405d2bec7)
 
 * **GTKWave**
   ![GTKWave Version](images/gtkwave.jpg)
