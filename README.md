@@ -85,7 +85,7 @@ gtkwave -v        # Should show GTKWave version
 ### 📸 Screenshots
 
 * **Yosys**
-  ![Yosys Launch](Images/Yosys.jpg)
+  ![Yosys Launch](https://github.com/user-attachments/assets/fafe55bf-af95-4934-b3d0-4f20e8381909)
 
 * **Icarus Verilog**
   ![Icarus Verilog Version](images/iverilog.jpg)
